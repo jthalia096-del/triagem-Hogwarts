@@ -4,7 +4,7 @@ from telegram import *
 from telegram.ext import *
 
 # ================= CONFIG =================
-TOKEN = ""
+TOKEN = "8505235474:AAGtB8PkMMS0VFPxl0gIDK9Po8mUXmJbWTU"
 
 ADMIN_ID = 1130170420
 
